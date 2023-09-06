@@ -1,0 +1,38 @@
+.body {
+    margin:20px;
+}
+
+.image
+{
+   width: 100px;
+}
+
+.card
+{
+   width: 300px;
+   margin: 0 auto;
+   padding: 18px;
+   display: flex;
+   justify-content: space-around;
+   font-family: Arial;
+   text-align: center;
+   background: #f3eae8;
+   color: #003b21;
+   border-bottom: 6px solid #1a71b5;
+   border-left: 6px solid #1a71b5;
+        
+   
+
+}
+{
+   
+}
+{
+   
+}
+{
+   
+}
+{
+   
+}
